@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Welcome to the SRJC Computer Science Club
 
-You can use the [editor on GitHub](https://github.com/SRJC-Computer-Science-Club/CS-Club-Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This club specializes in programming, discussion of computer hardware/software, and holds several programming projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## How to join/become involved
 
-### Markdown
+### Attend a meeting
+Meetings are officially on Fridays from 12:00am to 3:00pm in the SRJC Library
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Slack
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SRJC-Computer-Science-Club/CS-Club-Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Slack is our way of communicating, sharing and posting information professionally. Since Slack is divided up into channels, we require all of our members to help pass around critial information on this service in the appropriate channel( we also have a channel named random :wink: ). And with everyone on the same service, we can quickly share documents and links vs looking through threads of emails. **Before inviting you to any of our other services, like Checkvist and GitHub, we require you to accept the invite to slack first.**
