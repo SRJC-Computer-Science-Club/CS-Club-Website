@@ -7,5 +7,5 @@ This club specializes in programming, discussion of computer hardware/software, 
 <details>
 <summary>Projects</summary>
 <br>
-  [games](./games.md)
+  [games](./GAMES.md)
 <details>
