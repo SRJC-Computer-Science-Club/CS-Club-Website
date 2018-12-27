@@ -13,5 +13,7 @@ This club specializes in programming, discussion of computer hardware/software, 
 <details>
 <summary>Resources</summary>
 <br>
- <a href="./RESOURCES.md">Resources</a>
+ <a href="./TUTORIALS.md">Tutorials</a>
+<br>
+ <a href="./CAPITAL.md">Capital</a>
 </details>
