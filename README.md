@@ -8,4 +8,4 @@ This club specializes in programming, discussion of computer hardware/software, 
 <summary>Projects</summary>
 <br>
  <a href="./GAMES.md">Games</a>
-<details>
+
