@@ -15,6 +15,6 @@ Link here: [Slack](srjccsc.slack.com)
 
 ### Discord
 
-We are working on transitioning to Discord for several areas of our current Slack setup. Discord offers us free unlimited storage and audio and video calls. We highly recommend checking it out as well.
+We use Discord for several areas that Slack setup can't provide. Discord offers us free unlimited storage and audio and video calls. We highly recommend checking it out as well.
 
 Link here: [Discord](https://discord.gg/eK9vCGh)
