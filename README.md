@@ -2,13 +2,10 @@
 
 This club specializes in programming, discussion of computer hardware/software, and holds several programming projects
 
-## How to join/become involved
+## Want to join? [info here](./JOIN.md)
 
-### Attend a meeting
-Meetings are officially on Fridays from 12:00am to 3:00pm in the SRJC Library
-
-### Slack
-
-Slack is our way of communicating, sharing and posting information professionally. Since Slack is divided up into channels, we require all of our members to help pass around critial information on this service in the appropriate channel( we also have a channel named random :wink: ). And with everyone on the same service, we can quickly share documents and links vs looking through threads of emails. **Before inviting you to any of our other services, like Checkvist and GitHub, we require you to accept the invite to slack first.**
-
-Link here: [Slack](srjccsc.slack.com)
+<details>
+<summary>Projects</summary>
+<br>
+ <a href="./GAMES.md">Games</a>
+</details>
