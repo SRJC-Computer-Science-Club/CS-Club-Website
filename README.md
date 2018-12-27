@@ -9,3 +9,9 @@ This club specializes in programming, discussion of computer hardware/software, 
 <br>
  <a href="./GAMES.md">Games</a>
 </details>
+
+<details>
+<summary>Resources</summary>
+<br>
+ <a href="./RESOURCES.md">Resources</a>
+</details>
