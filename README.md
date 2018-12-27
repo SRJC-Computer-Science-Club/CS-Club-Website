@@ -13,7 +13,7 @@ Slack is our way of communicating, sharing and posting information professionall
 
 Link here: [Slack](srjccsc.slack.com)
 
-### Discord (W.I.P.)
+### Discord
 
 We are working on transitioning to Discord for several areas of our current Slack setup. Discord offers us free unlimited storage and audio and video calls. We highly recommend checking it out as well.
 
