@@ -6,7 +6,7 @@ This club specializes in programming, discussion of computer hardware/software, 
 # Table of Contents
 [About](./ABOUT.md)
 
-[Events](./Events.md)
+[Events](./EVENTS.md)
 
 [Members](./MEMBERS.md)
 
