@@ -5,4 +5,4 @@ This club specializes in programming, discussion of computer hardware/software, 
 ## Want to join? [info here](./JOIN.md)
 
 # Table of Contents
-[Projects] (./PROJECTS.md)
+[Projects](./PROJECTS.md)
