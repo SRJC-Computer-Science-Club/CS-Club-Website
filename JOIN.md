@@ -1,5 +1,5 @@
 # How to join/become involved
-
+***
 ### Attend a meeting
 Meetings are officially on Fridays from 12:00am to 3:00pm in the SRJC Library. Since meeting times are subject to change, check out our slack for up to date meeting times.
 
