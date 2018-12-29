@@ -1,4 +1,5 @@
 # Events
+***
 ## Upcoming:
 
 Nothing to report at the moment.
