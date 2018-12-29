@@ -1,4 +1,4 @@
 # Resources
 ***
 * [Tutorials](./TUTORIALS.md)
-* [Captial](./CAPITAL.md)
+* [Capital](./CAPITAL.md)
