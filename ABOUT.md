@@ -1,2 +1,7 @@
 # About
-This club specializes in programming, discussion of computer hardware/software, and holds several programming projects
+***
+## What We Do:
+
+## The Purpose of This Site:
+
+## Who is Welcome?

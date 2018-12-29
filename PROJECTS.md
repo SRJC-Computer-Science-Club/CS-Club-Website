@@ -1,2 +1,3 @@
 # Projects
+***
 [Games](./GAMES.md)
